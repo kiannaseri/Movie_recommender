@@ -1,0 +1,16 @@
+# Desktop interface
+customtkinter
+
+# Data processing
+pandas
+numpy
+
+# Recommendation models
+scikit-surprise
+scikit-learn
+joblib
+
+# Chatbot/API integration and visualisation
+requests
+matplotlib
+seaborn
